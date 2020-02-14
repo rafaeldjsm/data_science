@@ -1,0 +1,6 @@
+\babel@toc {portuguese}{}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}{section.1}% 
+\contentsline {section}{\numberline {2}C\IeC {\'a}lculo Diferencial}{1}{section.2}% 
+\contentsline {section}{\numberline {3}\IeC {\'A}lgebra Linear}{1}{section.3}% 
+\contentsline {section}{\numberline {A}Ap\IeC {\^e}ndice I}{1}{appendix.A}% 
+\contentsline {subsection}{\numberline {A.1}Open Course Ware e MOOC's}{1}{subsection.A.1}% 
