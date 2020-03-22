@@ -1,0 +1,15 @@
+# data files
+*.txt
+*.csv
+*.xlsx
+
+
+# checkpoints jupyter notebook
+.ipynb_checkpoints
+*-checkpoint.ypnb
+
+# 
+references/
+
+
+.pdf
